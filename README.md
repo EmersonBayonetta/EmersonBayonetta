@@ -82,7 +82,7 @@ Base de um gerenciador de tarefas com integração ao Supabase e verificação d
 
 ## Formação e aprendizado
 
-- Engenharia de Software — Unifatecie
+- Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul(UniFran)
 - Técnico em Desenvolvimento de Sistemas — Rio Pomba Valley
 - Formação Full-stack com JavaScript e C# — TreinaWeb
 - Estudos contínuos em desenvolvimento web, testes e boas práticas
