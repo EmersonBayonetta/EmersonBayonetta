@@ -2,7 +2,7 @@
 
 Desenvolvedor de software em formação, de Cataguases–MG, interessado em criar aplicações web que resolvam problemas reais.
 
-Atualmente curso **Engenharia de Software** e **Técnico em Desenvolvimento de Sistemas pelo Rio Pomba Valley**. Minha experiência profissional com atendimento e vendas também contribuiu para desenvolver comunicação, visão de negócio e foco na experiência do usuário.
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e **Técnico em Desenvolvimento de Sistemas pelo Rio Pomba Valley**. Minha experiência profissional com atendimento e vendas também contribuiu para desenvolver comunicação, visão de negócio e foco na experiência do usuário.
 
 ## Sobre mim
 
