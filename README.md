@@ -2,11 +2,11 @@
 
 Desenvolvedor de software em formação, de Cataguases–MG, interessado em criar aplicações web que resolvam problemas reais.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** e **Técnico em Desenvolvimento de Sistemas pelo Rio Pomba Valley**. Minha experiência profissional com atendimento e vendas também contribuiu para desenvolver comunicação, visão de negócio e foco na experiência do usuário.
+Atualmente curso **Técnico em Desenvolvimento de Sistemas pelo Rio Pomba Valley**. Minha experiência profissional com atendimento e vendas também contribuiu para desenvolver comunicação, visão de negócio e foco na experiência do usuário.
 
 ## Sobre mim
 
-- 🎓 Estudante de Engenharia de Software e Desenvolvimento de Sistemas
+- 🎓 Estudante de Desenvolvimento de Sistemas
 - 💻 Foco em desenvolvimento web front-end e full-stack
 - 🧩 Interesse em produtos SaaS, automação e sistemas de gestão
 - 📚 Aprimorando conhecimentos em arquitetura, testes e bancos de dados
@@ -23,15 +23,16 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e **Técnico em Dese
 - Next.js
 - Tailwind CSS
 - React Router
-- React Hook Form e Zod
 
 ### Back-end e dados
 
 - APIs REST
 - Node.js
-- PostgreSQL
 - Supabase
-- C# em formação
+- Express
+- JWT
+- MongoDB
+- PostgreSQL
 
 ### Qualidade e ferramentas
 
